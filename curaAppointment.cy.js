@@ -1,3 +1,5 @@
+//Automation Testing of making a Hospital Appointment
+
 describe('To make appointment', () => {
     it('Visit the website', () => {
         //Visit the webpage
